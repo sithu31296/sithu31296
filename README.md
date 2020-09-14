@@ -8,7 +8,6 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: 09250225588.
 - ⚡ Fun fact: I like to watch series and movies.
-
 <!--
 **sithu31296/sithu31296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,9 +22,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<br/>
-
 ### Languages
 
 <img align="left" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -34,6 +30,7 @@ Here are some ideas to get you started:
 <img align="left" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
+<br/>
 <br/>
 <br/>
 
@@ -62,7 +59,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 <br/>
-
+<br/>
 
 [![Sithu's github stats](https://github-readme-stats.vercel.app/api?username=sithu31296&show_icons=true&theme=buefy)](https://github.com/sithu31296/sithu31296)
 
