@@ -25,41 +25,35 @@ Here are some ideas to get you started:
 
 ### Languages
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Swift](https://img.shields.io/badge/-Swift-black?style=flat-square&logo=swift)
+![Python](https://img.shields.io/badge/-Python-green?style=flat-square&logo=Python&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-red?style=flat-square&logo=swift&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 
-<br/>
-<br/>
-
 ### Main Tools
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![PyTorch](https://img.shields.io/badge/-PyTorch-red?style=flat-square&logo=pytorch&logoColor=white)
+![TensorRT](https://img.shields.io/badge/-TensorRT-green?style=flat-square&logo=tensorflow&logoColor=white)
+![TFLite](https://img.shields.io/badge/-TFLite-orange?style=flat-square&logo=tensorflow&logoColor=white)
+![ROS](https://img.shields.io/badge/-ROS-informational?style=flat-square&logo=ros&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-brightgreen?style=flat-square&logo=fastapi&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue-blue?style=flat-square&logo=vuejs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-red?style=flat-square&logo=beautifulsoup&logoColor=white)
+![Requests](https://img.shields.io/badge/-Requests-red?style=flat-square&logo=requests&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
-
-<img align="left" height="28px" src="https://github.com/pytorch/pytorch/blob/master/docs/source/_static/img/pytorch-logo-dark.png" />
-<img align="left" height="34px" src="https://images.exxactcorp.com/CMS/landing-page/resource-center/supported-software/deep-learning/tensorrt/TensorRT.png" />
-<img align="left" height="35px" src="https://www.tensorflow.org/site-assets/images/project-logos/tensorflow-lite-logo-social.png" />
-<img align="left" height="20px" src="https://www.ros.org/wp-content/uploads/2013/10/rosorg-logo1.png" />
-<img align="left" height="35px" src="https://camo.githubusercontent.com/86dafd728b94c0e3c8f19a7295e87df678ed6751/68747470733a2f2f666173746170692e7469616e676f6c6f2e636f6d2f696d672f6c6f676f2d6d617267696e2f6c6f676f2d7465616c2e706e67" />
-<img align="left" height="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-
-
-<br/>
-<br/>
+![Jetson](https://img.shields.io/badge/-Jetson-blueviolet?style=flat-square&logo=jetson&logoColor=white)
 
 ### Other Tools
 
-<img align="left" height="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" height="35px" margin-top="8px" src="https://docs.opencv.org/master/opencv-logo-small.png" />
-<img align="left" height="50px" margin-bottom="10px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" height="30px" margin-top="5px" src="https://camo.githubusercontent.com/5cb734f6fc37f645dc900e35559c60d91cc6b550/68747470733a2f2f6465762e70616e6461732e696f2f7374617469632f696d672f70616e6461732e737667" />
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-brightgreen?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-9cf?style=flat-square&logo=opencv&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-blueviolet?style=flat-square&logo=pandas&logoColor=white)
+![SpaCy](https://img.shields.io/badge/-SpaCy-yellow?style=flat-square&logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-9cf?style=flat-square&logo=nltk&logoColor=white)
 
-<br/>
-<br/>
 <br/>
 
 [![Sithu's github stats](https://github-readme-stats.vercel.app/api?username=sithu31296&show_icons=true&theme=buefy)](https://github.com/sithu31296/sithu31296)
@@ -67,7 +61,5 @@ Here are some ideas to get you started:
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sithu31296)](https://github.com/sithu31296/sithu31296)
-
-<br/>
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sithu31296.sithu31296)](https://github.com/sithu31296/sithu31296)
