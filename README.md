@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![TFLite](https://img.shields.io/badge/-TFLite-orange?style=flat-square&logo=tensorflow&logoColor=white)
 ![ROS](https://img.shields.io/badge/-ROS-informational?style=flat-square&logo=ros&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-brightgreen?style=flat-square&logo=fastapi&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue-blue?style=flat-square&logo=vuejs&logoColor=white)
+![Vue](https://img.shields.io/badge/-Vue.js-blue?style=flat-square&logo=vue.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Other Tools
