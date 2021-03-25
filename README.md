@@ -1,6 +1,6 @@
 ### Hi there, I'm Sithu 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-sithu31296-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sithu31296/)](https://www.linkedin.com/in/sithu31296/)
+[![Linkedin Badge](https://img.shields.io/badge/-sithu31296-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sithu-aung-285a30157/)](https://www.linkedin.com/in/sithu31296/)
 [![Gmail Badge](https://img.shields.io/badge/-sithu31296@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sithu31296@gmail.com)](mailto:sithu31296@gmail.com)
 
 - 🔭 I’m currently working on Deep Learning projects.
