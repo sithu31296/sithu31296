@@ -3,10 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-sithu31296-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sithu-aung-285a30157/)](https://www.linkedin.com/in/sithu-aung-285a30157/)
 [![Gmail Badge](https://img.shields.io/badge/-sithu31296@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sithu31296@gmail.com)](mailto:sithu31296@gmail.com)
 
-- 🔭 I’m currently working on Deep Learning projects.
-- 🌱 I’m currently learning deep learning and full-stack development.
-- 💬 Ask me about anything.
-- 📫 How to reach me: 09250225588.
+- 🔭 I’m currently working on Deep Learning and API projects.
 
 <!--
 **sithu31296/sithu31296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +24,6 @@ Here are some ideas to get you started:
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
 
@@ -44,8 +40,8 @@ Here are some ideas to get you started:
 
 ![Flask](https://img.shields.io/badge/Flask-grey?style=flat-square&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 
 ### Web Scraping
 
