@@ -17,22 +17,27 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on the following projects:
 
-* [Image Classification](https://github.com/sithu31296/Image-Classification-Pipeline)
-* [Unsupervised Image Classification](https://github.com/sithu31296/Unsupervised-Image-Classification)
-* [Self-Supervised Image Classification](https://github.com/sithu31296/Semi-Supervised-Image-Classification)
-* [Semi-Supervised Image Classification](https://github.com/sithu31296/Semi-Supervised-Image-Classification)
+* Image Classification
+  * [Supervised Image Classification](https://github.com/sithu31296/Image-Classification-Pipeline)
+  * [Unsupervised Image Classification](https://github.com/sithu31296/Unsupervised-Image-Classification)
+  * [Self-Supervised Image Classification](https://github.com/sithu31296/Semi-Supervised-Image-Classification)
+  * [Semi-Supervised Image Classification](https://github.com/sithu31296/Semi-Supervised-Image-Classification)
 
-* [Semantic Segmentation](https://github.com/sithu31296/Semantic-Segmentation-Pipeline)
-* [Unsupervised Semantic Segmentation](https://github.com/sithu31296/Unsupervised-Semantic-Segmentation)
+* Segmentation
+  * [Supervised Semantic Segmentation](https://github.com/sithu31296/Semantic-Segmentation-Pipeline)
+  * [Unsupervised Semantic Segmentation](https://github.com/sithu31296/Unsupervised-Semantic-Segmentation)
 
-* [Image Generation](https://github.com/sithu31296/Image-Generation)
-* [Image-to-Image Translation](https://github.com/sithu31296/Image-to-Image-Translation)
+* GAN
+  * [Image Generation](https://github.com/sithu31296/Image-Generation)
+  * [Image-to-Image Translation](https://github.com/sithu31296/Image-to-Image-Translation)
 
-* [Image Captioning]()
-* [Text-to-Image Generation](https://github.com/sithu31296/Text-to-Image-Generation)
+* Vision-Language
+  * [Image Captioning]()
+  * [Text-to-Image Generation](https://github.com/sithu31296/Text-to-Image-Generation)
 
-* [Re-Identification](https://github.com/sithu31296/Re-Identification-Pipeline)
-* [Knowledge Distillation](https://github.com/sithu31296/Knowledge-Distillation-Pipeline)
+* Others
+  * [Re-Identification](https://github.com/sithu31296/Re-Identification-Pipeline)
+  * [Knowledge Distillation](https://github.com/sithu31296/Knowledge-Distillation-Pipeline)
 
 ### Languages
 
@@ -50,14 +55,11 @@ Here are some ideas to get you started:
 ![SpaCy](https://img.shields.io/badge/-SpaCy-yellow?style=flat-square&logo=spacy&logoColor=white)
 ![NLTK](https://img.shields.io/badge/-NLTK-9cf?style=flat-square&logo=nltk&logoColor=white)
 
-### Web Development
+### App Development & Scraping
 
 ![Flask](https://img.shields.io/badge/Flask-grey?style=flat-square&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-
-### Web Scraping
-
 ![BeautifulSoup](https://img.shields.io/badge/-Beautiful%20Soup-brightgreen?style=flat-square&logo=bs4&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-red?style=flat-square&logo=selenium&logoColor=white)
 ![Requests](https://img.shields.io/badge/-Requests-red?style=flat-square&logo=requests&logoColor=white)
