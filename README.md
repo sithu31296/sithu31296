@@ -17,25 +17,25 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on the following projects:
 
-* Image Classification
+* ✨ __Image Classification__ ✨
   * [Supervised Image Classification](https://github.com/sithu31296/Image-Classification-Pipeline)
   * [Unsupervised Image Classification](https://github.com/sithu31296/Unsupervised-Image-Classification)
   * [Self-Supervised Image Classification](https://github.com/sithu31296/Semi-Supervised-Image-Classification)
   * [Semi-Supervised Image Classification](https://github.com/sithu31296/Semi-Supervised-Image-Classification)
 
-* Segmentation
+* ✨ __Segmentation__ ✨
   * [Supervised Semantic Segmentation](https://github.com/sithu31296/Semantic-Segmentation-Pipeline)
   * [Unsupervised Semantic Segmentation](https://github.com/sithu31296/Unsupervised-Semantic-Segmentation)
 
-* GAN
+* ✨ __GAN__ ✨
   * [Image Generation](https://github.com/sithu31296/Image-Generation)
   * [Image-to-Image Translation](https://github.com/sithu31296/Image-to-Image-Translation)
 
-* Vision-Language
+* ✨ __Vision-Language__ ✨
   * [Image Captioning]()
   * [Text-to-Image Generation](https://github.com/sithu31296/Text-to-Image-Generation)
 
-* Others
+* ✨ __Others__ ✨
   * [Re-Identification](https://github.com/sithu31296/Re-Identification-Pipeline)
   * [Knowledge Distillation](https://github.com/sithu31296/Knowledge-Distillation-Pipeline)
 
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 ![Selenium](https://img.shields.io/badge/-Selenium-red?style=flat-square&logo=selenium&logoColor=white)
 ![Requests](https://img.shields.io/badge/-Requests-red?style=flat-square&logo=requests&logoColor=white)
 
-### Other Tools
+### Tools
 
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
@@ -76,7 +76,5 @@ Here are some ideas to get you started:
 [![Sithu's github stats](https://github-readme-stats.vercel.app/api?username=sithu31296&show_icons=true&theme=buefy)](https://github.com/sithu31296/sithu31296)
 
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sithu31296)](https://github.com/sithu31296/sithu31296)
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sithu31296.sithu31296)](https://github.com/sithu31296/sithu31296)
