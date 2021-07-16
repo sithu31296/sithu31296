@@ -1,9 +1,4 @@
-### Hi there, I'm Sithu 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-sithu31296-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sithu-aung-285a30157/)](https://www.linkedin.com/in/sithu-aung-285a30157/)
-[![Gmail Badge](https://img.shields.io/badge/-sithu31296@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sithu31296@gmail.com)](mailto:sithu31296@gmail.com)
-
-- 🔭 I’m currently working on Deep Learning and API projects.
+### Hello there, I'm Sithu 👋
 
 <!--
 **sithu31296/sithu31296** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,6 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on the following projects:
+
+* [Image Classification](https://github.com/sithu31296/Image-Classification-Pipeline)
+* [Unsupervised Image Classification](https://github.com/sithu31296/Unsupervised-Image-Classification)
+* [Self-Supervised Image Classification](https://github.com/sithu31296/Semi-Supervised-Image-Classification)
+* [Semi-Supervised Image Classification](https://github.com/sithu31296/Semi-Supervised-Image-Classification)
+
+* [Semantic Segmentation](https://github.com/sithu31296/Semantic-Segmentation-Pipeline)
+* [Unsupervised Semantic Segmentation](https://github.com/sithu31296/Unsupervised-Semantic-Segmentation)
+
+* [Image Generation](https://github.com/sithu31296/Image-Generation)
+* [Image-to-Image Translation](https://github.com/sithu31296/Image-to-Image-Translation)
+
+* [Image Captioning]()
+* [Text-to-Image Generation](https://github.com/sithu31296/Text-to-Image-Generation)
+
+* [Re-Identification](https://github.com/sithu31296/Re-Identification-Pipeline)
+* [Knowledge Distillation](https://github.com/sithu31296/Knowledge-Distillation-Pipeline)
 
 ### Languages
 
@@ -41,20 +55,12 @@ Here are some ideas to get you started:
 ![Flask](https://img.shields.io/badge/Flask-grey?style=flat-square&logo=flask)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
 
 ### Web Scraping
 
 ![BeautifulSoup](https://img.shields.io/badge/-Beautiful%20Soup-brightgreen?style=flat-square&logo=bs4&logoColor=white)
 ![Selenium](https://img.shields.io/badge/-Selenium-red?style=flat-square&logo=selenium&logoColor=white)
 ![Requests](https://img.shields.io/badge/-Requests-red?style=flat-square&logo=requests&logoColor=white)
-
-### Embedded Devices
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=Espressif&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi)
-![Jetson](https://img.shields.io/badge/Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
 ### Other Tools
 
