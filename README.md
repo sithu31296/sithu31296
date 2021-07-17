@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 * ✨ __Image Classification__ ✨
   * [Supervised Image Classification](https://github.com/sithu31296/Image-Classification-Pipeline)
   * [Unsupervised Image Classification](https://github.com/sithu31296/Unsupervised-Image-Classification)
-  * [Self-Supervised Image Classification](https://github.com/sithu31296/Semi-Supervised-Image-Classification)
+  * [Self-Supervised Image Classification](https://github.com/sithu31296/Self-Supervised-Image-Classification)
   * [Semi-Supervised Image Classification](https://github.com/sithu31296/Semi-Supervised-Image-Classification)
 
 * ✨ __Segmentation__ ✨
