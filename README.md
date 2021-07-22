@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 
 
 ✨ __Image Classification__ ✨
-* [Supervised Image Classification](https://github.com/sithu31296/Image-Classification-Pipeline)
+* [Image Classification](https://github.com/sithu31296/Image-Classification-Pipeline)
 * [Self-Supervised Image Classification](https://github.com/sithu31296/Self-Supervised-Image-Classification)
 
 ✨ __Object Detection__ ✨
 * [Real-time Object Detection](https://github.com/sithu31296/Object-Detection)
 
 ✨ __Segmentation__ ✨
-* [Supervised Semantic Segmentation](https://github.com/sithu31296/Semantic-Segmentation-Pipeline)
+* [Semantic Segmentation](https://github.com/sithu31296/Semantic-Segmentation-Pipeline)
 * [Unsupervised Semantic Segmentation](https://github.com/sithu31296/Unsupervised-Semantic-Segmentation)
 
 ✨ __GAN__ ✨
