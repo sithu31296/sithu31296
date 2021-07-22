@@ -17,28 +17,29 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on the following projects:
 
-* ✨ __Image Classification__ ✨
-  * [Supervised Image Classification](https://github.com/sithu31296/Image-Classification-Pipeline)
-  * [Self-Supervised Image Classification](https://github.com/sithu31296/Self-Supervised-Image-Classification)
 
-* ✨ __Object Detection__ ✨
-  * [Real-time Object Detection](https://github.com/sithu31296/Object-Detection)
+✨ __Image Classification__ ✨
+* [Supervised Image Classification](https://github.com/sithu31296/Image-Classification-Pipeline)
+* [Self-Supervised Image Classification](https://github.com/sithu31296/Self-Supervised-Image-Classification)
 
-* ✨ __Segmentation__ ✨
-  * [Supervised Semantic Segmentation](https://github.com/sithu31296/Semantic-Segmentation-Pipeline)
-  * [Unsupervised Semantic Segmentation](https://github.com/sithu31296/Unsupervised-Semantic-Segmentation)
+✨ __Object Detection__ ✨
+* [Real-time Object Detection](https://github.com/sithu31296/Object-Detection)
 
-* ✨ __GAN__ ✨
-  * [Image Generation](https://github.com/sithu31296/Image-Generation)
-  * [Image-to-Image Translation](https://github.com/sithu31296/Image-to-Image-Translation)
+✨ __Segmentation__ ✨
+* [Supervised Semantic Segmentation](https://github.com/sithu31296/Semantic-Segmentation-Pipeline)
+* [Unsupervised Semantic Segmentation](https://github.com/sithu31296/Unsupervised-Semantic-Segmentation)
 
-* ✨ __Vision-Language__ ✨
-  * [Image Captioning]()
-  * [Text-to-Image Generation](https://github.com/sithu31296/Text-to-Image-Generation)
+✨ __GAN__ ✨
+* [Image Generation](https://github.com/sithu31296/Image-Generation)
+* [Image-to-Image Translation](https://github.com/sithu31296/Image-to-Image-Translation)
 
-* ✨ __Others__ ✨
-  * [Re-Identification](https://github.com/sithu31296/Re-Identification-Pipeline)
-  * [Knowledge Distillation](https://github.com/sithu31296/Knowledge-Distillation-Pipeline)
+✨ __Vision-Language__ ✨
+* [Image Captioning]()
+* [Text-to-Image Generation](https://github.com/sithu31296/Text-to-Image-Generation)
+
+✨ __Others__ ✨
+* [Re-Identification](https://github.com/sithu31296/Re-Identification-Pipeline)
+* [Knowledge Distillation](https://github.com/sithu31296/Knowledge-Distillation-Pipeline)
 
 
 ##### Machine Learning
