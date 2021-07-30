@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 * [Text-to-Image Generation](https://github.com/sithu31296/Text-to-Image-Generation)
 
 ✨ __Others__ ✨
+* [torch_optimize](https://github.com/sithu31296/torch_optimize)
 * [Re-Identification](https://github.com/sithu31296/Re-Identification-Pipeline)
 * [Knowledge Distillation](https://github.com/sithu31296/Knowledge-Distillation-Pipeline)
 
