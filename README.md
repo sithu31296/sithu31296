@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 * ✨ [torch_optimize](https://github.com/sithu31296/torch_optimize) ✨
 * ✨ [Re-Identification](https://github.com/sithu31296/Re-Identification-Pipeline) ✨
 
+<br/>
 
 #### Machine Learning
 
