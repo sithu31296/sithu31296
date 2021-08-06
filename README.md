@@ -18,12 +18,13 @@ Here are some ideas to get you started:
 🔭 I’m currently working on the following projects:
 
 * ✨ [Image Classification](https://github.com/sithu31296/Image-Classification-Pipeline) ✨
-* ✨ [Segmentation](https://github.com/sithu31296/Semantic-Segmentation-Pipeline) ✨
-* ✨ [Image Generation](https://github.com/sithu31296/Image-Generation) ✨
-* ✨ [Object Detection](https://github.com/sithu31296/Object-Detection) ✨
-* ✨ [Self-Supervised Learning](https://github.com/sithu31296/Self-Supervised-Image-Classification) ✨
-* ✨ [torch_optimize](https://github.com/sithu31296/torch_optimize) ✨
-* ✨ [Re-Identification](https://github.com/sithu31296/Re-Identification-Pipeline) ✨
+* ✨ [Audio Classification](https://github.com/sithu31296/Image-Classification-Pipeline) ✨
+* ✨ [Semantic Segmentation](https://github.com/sithu31296/Semantic-Segmentation-Pipeline) ✨
+* [Image Generation](https://github.com/sithu31296/Image-Generation)
+* [Object Detection](https://github.com/sithu31296/Object-Detection) 
+* [Self-Supervised Learning](https://github.com/sithu31296/Self-Supervised-Image-Classification)
+* [torch_optimize](https://github.com/sithu31296/torch_optimize) 
+* [Re-Identification](https://github.com/sithu31296/Re-Identification-Pipeline)
 
 <br/>
 
