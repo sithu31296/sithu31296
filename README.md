@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+* [Image Generation](https://github.com/sithu31296/image_generation)
+* [Object Detection](https://github.com/sithu31296/object_detection) 
+* [PyTorch Optimize](https://github.com/sithu31296/torch_optimize) 
 -->
 
 🔭 I’m currently working on the following projects:
@@ -21,9 +24,6 @@ Here are some ideas to get you started:
 * ✨ [Audio Tagging](https://github.com/sithu31296/audio-tagging) ✨
 * ✨ [Semantic Segmentation](https://github.com/sithu31296/semantic_segmentation) ✨
 * ✨ [Self-Supervised Learning](https://github.com/sithu31296/self_supervised_learning) ✨
-* [Image Generation](https://github.com/sithu31296/image_generation)
-* [Object Detection](https://github.com/sithu31296/object_detection) 
-* [PyTorch Optimize](https://github.com/sithu31296/torch_optimize) 
 
 
 #### Machine Learning
