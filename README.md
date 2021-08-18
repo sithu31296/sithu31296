@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 * [PyTorch Optimize](https://github.com/sithu31296/torch_optimize) 
 -->
 
-🔭 I’m currently working on the following projects:
+📍 I’m currently working on the following projects:
 
-* ✨ [Image Classification](https://github.com/sithu31296/image_classification) ✨
-* ✨ [Audio Tagging](https://github.com/sithu31296/audio-tagging) ✨
-* ✨ [Semantic Segmentation](https://github.com/sithu31296/semantic_segmentation) ✨
-* ✨ [Self-Supervised Learning](https://github.com/sithu31296/self_supervised_learning) ✨
+* 🖼️ [Image Classification](https://github.com/sithu31296/image_classification) ✨🖼️
+* 🔉 [Audio Tagging](https://github.com/sithu31296/audio-tagging) 🔉
+* 🎴 [Semantic Segmentation](https://github.com/sithu31296/semantic_segmentation) 🎴
+* 🎏 [Self-Supervised Learning](https://github.com/sithu31296/self_supervised_learning) 🎏
 
 
 #### Machine Learning
