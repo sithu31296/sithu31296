@@ -23,7 +23,9 @@ Here are some ideas to get you started:
 * 🔉 [Audio Tagging](https://github.com/sithu31296/audio-tagging) 🔉
 * 🖼️ [Image Classification](https://github.com/sithu31296/image_classification) 🖼️
 * 🎴 [Semantic Segmentation](https://github.com/sithu31296/semantic_segmentation) 🎴
+* 🛗 [Object Tracking](https://github.com/sithu31296/simple-object-tracking) 🛗
 * 🎏 [Self-Supervised Learning](https://github.com/sithu31296/self_supervised_learning) 🎏
+* 🎭 [Multimodal](https://github.com/sithu31296/multimodal) 🎭
 
 
 #### Machine Learning
