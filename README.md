@@ -1,11 +1,10 @@
 #### 📌 Current Active Projects
 
-[![Audio Tagging](https://github-readme-stats.vercel.app/api/pin/?username=sithu31296&repo=audio-tagging)](https://github.com/sithu31296/audio-tagging)
-[![Image Classification](https://github-readme-stats.vercel.app/api/pin/?username=sithu31296&repo=image-classification)](https://github.com/sithu31296/image-classification)
-[![Semantic Segmentation](https://github-readme-stats.vercel.app/api/pin/?username=sithu31296&repo=semantic-segmentation)](https://github.com/sithu31296/semantic-segmentation)
-[![Object Tracking](https://github-readme-stats.vercel.app/api/pin/?username=sithu31296&repo=simple-object-tracking)](https://github.com/sithu31296/simple-object-tracking)
-[![SSL](https://github-readme-stats.vercel.app/api/pin/?username=sithu31296&repo=self-supervised-learning)](https://github.com/sithu31296/self-supervised-learning)
-[![PyTorch ONNX TFLite](https://github-readme-stats.vercel.app/api/pin/?username=sithu31296&repo=PyTorch-ONNX-TFLite)](https://github.com/sithu31296/PyTorch-ONNX-TFLite)
+* [Audio Tagging](https://github.com/sithu31296/audio-tagging) 🔉 
+* [Image Classification](https://github.com/sithu31296/image_classification) 🖼️ 
+* [Semantic Segmentation](https://github.com/sithu31296/semantic_segmentation) 🎴 
+* [Simple Object Tracking](https://github.com/sithu31296/simple-object-tracking) 🧿 
+* [Self-Supervised Learning](https://github.com/sithu31296/self_supervised_learning) 🎏 
 
 #### 🕹️ Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch)
