@@ -1,10 +1,11 @@
 #### 📌 Current Active Projects
 
-* [Audio Tagging](https://github.com/sithu31296/audio-tagging) 🔉 
-* [Image Classification](https://github.com/sithu31296/image_classification) 🖼️ 
-* [Semantic Segmentation](https://github.com/sithu31296/semantic_segmentation) 🎴 
-* [Simple Object Tracking](https://github.com/sithu31296/simple-object-tracking) 🧿 
-* [Self-Supervised Learning](https://github.com/sithu31296/self_supervised_learning) 🎏 
+[![Audio Tagging](https://github-readme-stats.vercel.app/api/pin/?username=sithu31296&repo=audio-tagging)](https://github.com/sithu31296/audio-tagging)
+[![Image Classification](https://github-readme-stats.vercel.app/api/pin/?username=sithu31296&repo=image-classification)](https://github.com/sithu31296/image-classification)
+[![Semantic Segmentation](https://github-readme-stats.vercel.app/api/pin/?username=sithu31296&repo=semantic-segmentation)](https://github.com/sithu31296/semantic-segmentation)
+[![Object Tracking](https://github-readme-stats.vercel.app/api/pin/?username=sithu31296&repo=simple-object-tracking)](https://github.com/sithu31296/simple-object-tracking)
+[![SSL](https://github-readme-stats.vercel.app/api/pin/?username=sithu31296&repo=self-supervised-learning)](https://github.com/sithu31296/self-supervised-learning)
+[![PyTorch ONNX TFLite](https://github-readme-stats.vercel.app/api/pin/?username=sithu31296&repo=PyTorch-ONNX-TFLite)](https://github.com/sithu31296/PyTorch-ONNX-TFLite)
 
 #### 🕹️ Tools
 ![PyTorch](https://img.shields.io/badge/PyTorch-white?style=for-the-badge&logo=pytorch)
@@ -14,6 +15,6 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=blue)
 ![SKLearn](https://img.shields.io/badge/Sklearn-white?style=for-the-badge&logo=scikit-learn)
 
-[![Sithu's github stats](https://github-readme-stats.vercel.app/api?username=sithu31296&show_icons=true&theme=buefy)](https://github.com/sithu31296/sithu31296)
+[![Sithu's github stats](https://github-readme-stats.vercel.app/api?username=sithu31296&show_icons=true&theme=buefy&hide=prs,issues)](https://github.com/sithu31296/sithu31296)
 
 [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=sithu31296.sithu31296)](https://github.com/sithu31296/sithu31296)
