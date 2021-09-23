@@ -3,7 +3,6 @@
 * [Audio Tagging](https://github.com/sithu31296/audio-tagging) 🔉 
 * [Image Classification](https://github.com/sithu31296/image_classification) 🖼️ 
 * [Semantic Segmentation](https://github.com/sithu31296/semantic_segmentation) 🎴 
-* [Panoptic Segmentation](https://github.com/sithu31296/panoptic-segmentation) 🎴
 * [Simple Object Tracking](https://github.com/sithu31296/simple-object-tracking) 🧿 
 * [Top-Down Pose Estimation](https://github.com/sithu31296/pose-estimation) 🤺
 * [Self-Supervised Learning](https://github.com/sithu31296/self_supervised_learning) 🎏 
