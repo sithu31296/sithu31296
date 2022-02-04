@@ -5,6 +5,7 @@
 * [Object Tracking](https://github.com/sithu31296/simple-object-tracking) 🧿 
 * [Image Captioning](https://github.com/sithu31296/image-captioning) 📟
 * [Image Classification](https://github.com/sithu31296/image_classification) 🖼️ 
+* [Video Classification](https://github.com/sithu31296/video-classification) 🎞️
 * [Semantic Segmentation](https://github.com/sithu31296/semantic_segmentation) 🎴 
 * [Top-Down Pose Estimation](https://github.com/sithu31296/pose-estimation) 🤺
 
