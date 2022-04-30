@@ -1,11 +1,10 @@
 #### 🔖 Current Active Projects
 
 * [Audio Tagging](https://github.com/sithu31296/audio-tagging) 🔉 
-* [Torch Optimize](https://github.com/sithu31296/torch_optimize) 🪢
 * [Object Tracking](https://github.com/sithu31296/simple-object-tracking) 🧿 
 * [Image Captioning](https://github.com/sithu31296/image-captioning) 📟
-* [Image Classification](https://github.com/sithu31296/image_classification) 🖼️ 
 * [Video Classification](https://github.com/sithu31296/video-classification) 🎞️
+* [Image Classification](https://github.com/sithu31296/image_classification) 🖼️ 
 * [Semantic Segmentation](https://github.com/sithu31296/semantic_segmentation) 🎴 
 * [Top-Down Pose Estimation](https://github.com/sithu31296/pose-estimation) 🤺
 
