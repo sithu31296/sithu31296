@@ -1,5 +1,6 @@
 #### 🔖 Current Active Projects
 
+* [EasyFace](https://github.com/sithu31296/EasyFace)🗿️
 * [Audio Tagging](https://github.com/sithu31296/audio-tagging) 🔉 
 * [Object Tracking](https://github.com/sithu31296/simple-object-tracking) 🧿 
 * [Image Captioning](https://github.com/sithu31296/image-captioning) 📟
