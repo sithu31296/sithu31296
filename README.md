@@ -1,7 +1,6 @@
 #### 🔖 Interests
 * Photogrammetry
 * 3D Computer Vision
-* Real-time Rendering
 * Autonomous Driving
 
 #### 📄 Publications
