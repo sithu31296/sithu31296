@@ -2,6 +2,7 @@
 * Photogrammetry
 * 3D Computer Vision
 * Autonomous Driving
+* Synthetic Data Generation
 
 I am looking for a PhD position.
 
