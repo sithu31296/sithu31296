@@ -4,8 +4,6 @@
 * Autonomous Driving
 * Synthetic Data Generation
 
-I am looking for a PhD position.
-
 #### 📄 Publications
 
 * Enhancing Multi-view Pedestrian Detection Through Generalized 3D Feature Pulling (WACV 2024) [Paper](https://openaccess.thecvf.com/content/WACV2024/html/Aung_Enhancing_Multi-View_Pedestrian_Detection_Through_Generalized_3D_Feature_Pulling_WACV_2024_paper.html)
